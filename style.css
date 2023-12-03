@@ -1,0 +1,29 @@
+body{
+    background-color: gray;
+}
+
+#main-content {
+        display: flex;
+        max-width: 1080px;
+        margin: auto;
+        background-color: white;
+      padding: 0px 25px;
+}
+
+#right {
+
+}
+
+
+#left {
+    width: 30%;
+  }
+  
+.title {
+    color: blue;
+    text-decoration: underline;
+}
+
+.content {
+
+}
